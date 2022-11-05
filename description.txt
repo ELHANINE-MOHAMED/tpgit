@@ -1,3 +1,4 @@
+une nouvelle version
 nom=el hanine
 prenon=mohamed
 ce dépôt pour le TP du cours de Cloud Computing.
